@@ -34,16 +34,20 @@ img {
 p {
   text-align: center;
   padding: 0.4em;
+  margin: 0;
 }
 
 .bold-text {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
+  font-size: 1.3rem;
+  margin-top: 0.4em;
 }
 
 .text {
   font-weight: 400;
   color: hsl(220, 15%, 55%);
+  margin-bottom: 0.8em;
 }
 
 a {
