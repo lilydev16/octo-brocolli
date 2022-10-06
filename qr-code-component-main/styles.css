@@ -45,3 +45,12 @@ p {
   font-weight: 400;
   color: hsl(220, 15%, 55%);
 }
+
+a {
+  text-decoration: none;
+  color: #3e0241;
+}
+
+a:hover {
+  border-bottom: #dd6486 0.125em solid;
+}
