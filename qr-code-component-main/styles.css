@@ -1,12 +1,12 @@
 html,
 body {
   height: 100%;
+  margin: 0;
 }
 
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
-  padding: 2.5em;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -16,8 +16,8 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 0.8em;
   border-radius: 1em;
-  margin-top: 5em;
-  margin-bottom: 4em;
+  margin: auto;
+  width: 14em;
 }
 
 img {
@@ -34,13 +34,14 @@ p {
 .bold-text {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   margin-top: 0.4em;
 }
 
 .text {
   font-weight: 400;
   color: hsl(220, 15%, 55%);
+  font-size: 0.8rem;
   margin-bottom: 0.8em;
 }
 
@@ -53,27 +54,29 @@ a:hover {
   border-bottom: #dd6486 0.125em solid;
 }
 
-@media (min-width: 640px) {
-  .card {
-    width: 49%;
-    margin: auto;
-  }
+footer {
+  display: flex;
+  flex-direction: column;
 }
 
-@media (min-width: 768px) {
-  .card {
-    width: 43%;
+@media (max-width: 320px) {
+  body {
+    padding: 0 0.5em;
   }
-}
 
-@media (min-width: 1024px) {
   .card {
-    width: 29%;
+    width: 9em;
   }
-}
 
-@media (min-width: 1280px) {
-  .card {
-    width: 21%;
+  .bold-text {
+    font-size: 0.7rem;
+  }
+
+  .text {
+    font-size: 0.53rem;
+  }
+
+  footer > p {
+    font-size: 0.67rem;
   }
 }
