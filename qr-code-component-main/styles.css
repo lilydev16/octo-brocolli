@@ -12,14 +12,6 @@ body {
   justify-content: space-between;
 }
 
-.card {
-  background-color: hsl(0, 0%, 100%);
-  padding: 0.8em;
-  border-radius: 1em;
-  margin: auto;
-  width: 14em;
-}
-
 img {
   width: 100%;
   border-radius: 0.6em;
@@ -29,6 +21,28 @@ p {
   text-align: center;
   padding: 0.4em;
   margin: 0;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: #3e0241;
+}
+
+a:hover {
+  border-bottom: #dd6486 0.125em solid;
+}
+
+.card {
+  background-color: hsl(0, 0%, 100%);
+  padding: 0.8em;
+  border-radius: 1em;
+  margin: auto;
+  width: 14em;
 }
 
 .bold-text {
@@ -43,20 +57,6 @@ p {
   color: hsl(220, 15%, 55%);
   font-size: 0.8rem;
   margin-bottom: 0.8em;
-}
-
-a {
-  text-decoration: none;
-  color: #3e0241;
-}
-
-a:hover {
-  border-bottom: #dd6486 0.125em solid;
-}
-
-footer {
-  display: flex;
-  flex-direction: column;
 }
 
 @media (max-width: 320px) {
