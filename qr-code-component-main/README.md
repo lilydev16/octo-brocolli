@@ -87,4 +87,4 @@ I plan to continue working on building responsive layouts with a mobile first ap
 ## Acknowledgments
 
 - [Surge](https://surge.sh/) for deploying a HTML static site
-- [Frontend Mentor](https://www.frontendmentor.io) for providing an excellent [README template](https://github.com/lilydev16/octo-brocolli/blob/main/qr-code-component-main/README-template.md) and [instructions]() to get started with the frontend challenge
+- [Frontend Mentor](https://www.frontendmentor.io) for providing an excellent [README template](https://github.com/lilydev16/octo-brocolli/blob/main/qr-code-component-main/README-template.md) and [instructions](https://github.com/lilydev16/octo-brocolli/blob/main/qr-code-component-main/README-instructions.md) to get started with the frontend challenge
