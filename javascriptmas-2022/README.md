@@ -35,3 +35,5 @@ More info [here](https://scrimba.com/learn/javascriptmas) to participate in the 
 [Day 13 - Emojify](day13_emojify/README.md)
 
 [Day 14 - Count Vowel Consonant](day14_count_vowel_consonant/README.md)
+
+[Day 15 - Palindromes](day15_palindromes/README.md)
