@@ -1,6 +1,6 @@
 function countVowelConsonant(str) {
   return str.split('').reduce((sum, char) => {
-      char.match(/[a, e, i, o, u]/g) ? sum += 1 : sum += 2
+      char.match(/[aeiou]/g) ? sum += 1 : sum += 2
       return sum
   }, 0)
   
