@@ -37,3 +37,5 @@ More info [here](https://scrimba.com/learn/javascriptmas) to participate in the 
 [Day 14 - Count Vowel Consonant](day14_count_vowel_consonant/README.md)
 
 [Day 15 - Palindromes](day15_palindromes/README.md)
+
+[Day 16 - Insert Dashes](day16_insert_dashes/README.md)
