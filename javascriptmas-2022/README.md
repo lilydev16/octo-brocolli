@@ -39,3 +39,5 @@ More info [here](https://scrimba.com/learn/javascriptmas) to participate in the 
 [Day 15 - Palindromes](day15_palindromes/README.md)
 
 [Day 16 - Insert Dashes](day16_insert_dashes/README.md)
+
+[Day 17 - Pumpkin's Prizes](day17_pumpkins_prizes/README.md)
