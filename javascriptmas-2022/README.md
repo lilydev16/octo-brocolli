@@ -41,3 +41,5 @@ More info [here](https://scrimba.com/learn/javascriptmas) to participate in the 
 [Day 16 - Insert Dashes](day16_insert_dashes/README.md)
 
 [Day 17 - Pumpkin's Prizes](day17_pumpkins_prizes/README.md)
+
+[Day 18 - Candies](day18_candies/README.md)
