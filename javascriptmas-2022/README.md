@@ -45,3 +45,5 @@ More info [here](https://scrimba.com/learn/javascriptmas) to participate in the 
 [Day 18 - Candies](day18_candies/README.md)
 
 [Day 19 - Century From Year](day19_century_from_year/README.md)
+
+[Day 20 - Find Free Podcasts](day20_find_free_podcasts/README.md)
