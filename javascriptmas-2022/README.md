@@ -49,3 +49,5 @@ More info [here](https://scrimba.com/learn/javascriptmas) to participate in the 
 [Day 20 - Find Free Podcasts](day20_find_free_podcasts/README.md)
 
 [Day 21 - Definitely Not FizzBuzz](day21_definitely_not_fizzbuzz/README.md)
+
+[Day 22 - Ready Tables](day22_ready_tables/README.md)
