@@ -51,3 +51,5 @@ More info [here](https://scrimba.com/learn/javascriptmas) to participate in the 
 [Day 21 - Definitely Not FizzBuzz](day21_definitely_not_fizzbuzz/README.md)
 
 [Day 22 - Ready Tables](day22_ready_tables/README.md)
+
+[Day 23 - Holiday Gift Shopping](day23_holiday_gift_shopping/README.md)
